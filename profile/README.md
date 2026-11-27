@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpeg" width="100%" alt="Atlas — O mundo em dados, com cada fonte à vista.">
+  <img src="profile/banner.jpeg" width="100%" alt="Atlas — O mundo em dados, com cada fonte à vista.">
 </p>
 
 <p align="center">
